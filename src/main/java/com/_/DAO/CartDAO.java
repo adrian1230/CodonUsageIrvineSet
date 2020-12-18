@@ -1,6 +1,6 @@
-package com.ifbooth.DAO;
+package com._.DAO;
 
-import com.ifbooth.Entity.UserCart;
+import com._.Entity.UserCart;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

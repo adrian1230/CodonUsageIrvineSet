@@ -1,4 +1,4 @@
-package com.ifbooth.Controller;
+package com._.Controller;
 
 public class ExploreItemsController {
 }

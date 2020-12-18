@@ -1,4 +1,4 @@
-package com.ifbooth.Entity;
+package com._.Entity;
 
 import org.springframework.data.mongodb.core.mapping.Document;
 import lombok.Data;

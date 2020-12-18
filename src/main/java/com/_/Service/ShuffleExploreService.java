@@ -1,4 +1,4 @@
-package com.ifbooth.Service;
+package com._.Service;
 
 public class ShuffleExploreService {
 }
